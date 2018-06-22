@@ -278,7 +278,6 @@ $(document).ready(function() {
 });
 
 function showOrderModal(id, model) {
-    $('#orderModal').modal('show');
     $('.order_model').text(model);
     var tape = $('#tape').prop('checked');
     if(id === 1) {
@@ -293,6 +292,7 @@ function showOrderModal(id, model) {
         else { $('#optional').hide(); }
         checkLength();
     }
+    $('#orderModal').modal('show');
 }
 
 function checkLength() {
