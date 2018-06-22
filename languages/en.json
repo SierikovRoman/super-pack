@@ -1,0 +1,80 @@
+{
+	"language" : "ru",
+	"navs" : {
+		"nav_1" : "what is it",
+		"nav_2" : "how it works",
+		"nav_3" : "models",
+		"nav_4" : "difference",
+		"nav_5" : "shipping",
+		"nav_6" : "contacts"
+	},
+	"section": {
+		"first" : {
+			"title" : "what is it",
+			"desc" : "Wrapping machine intended for packing goods by the \"envelope\" method (cellophanization). Cellophane is a convenient and perfect way of packing products in polypropylene film. The film with this method of packaging, while maintaining its transparency, beautifully tightens the products to be packed without the use of heat shrinkage. Cellophanes are usually used for packaging tea and coffee packs, cookie packages, electronic and classical cigarettes, cosmetics and perfumes, audio and video cassettes, DVDs and CDs, playing cards and other products. \r\n\r\nBy degree of automation cellophanes can be automatic, semi-automatic and manual. Accordingly, the wrapping machine automatically performs all operations in an automatic mode, while achieving high performance. On manual wrapping machine, all stages of packaging formation are performed due to manual labor of the operator. \r\n\r\n Portable, lightweight, compact cellophane is popular with enterprises that produce products in small batches. If it is important for you that your goods look the best, they are protected and at the same time attract buyers, then a hand-wrapping machine is just what you need. Cellophane is simple and reliable in operation. The absence of moving elements contributes to a long service life of the equipment."
+		},
+		"second" : {
+			"title" : "how it works",
+			"desc" : ""
+		},
+		"third" : {
+			"title" : "models",
+			"models" : {
+				"f" : {
+					"title" : "CW-350-B",
+					"desc" : " Manual Cellophane Wrapping Machine. Load up to a 35cm / 14in. wide film roll. The most versatile wrapper on the market. Simple to use, small and cheap tabletop machine, absolutely the best choice for the price-conscious.",
+					"price" : "12900",
+					"overview" : {
+						"title" : "overview 📄",
+						"desc" : "All Pro Solutions has the best tabletop manual over wrapping machine, CW-350-B, for any small rectangular shape objects like perfume, cosmetic boxes, tea, playing cards etc. as well as CD/DVD/Blu-Ray cases and video game cases. Simple to use, small and not expensive tabletop machine, provide professional packaging for your product. Very attractive price with really high manufacturing quality. Even wrap boxes up to 35 cm wide (14 in.) which is much wider than the standard machine. The CW-350-B is the inexpensive version of the CW-350. Differences include: Cardboard packaging instead of wooden crate. Simple/Basic Temperature Controller Less Expensive Construction – No Stainless Steel."
+					},
+					"specification" : {
+						"title" : "specification ️️️️⚙️",
+						"desc" : ""						
+					},
+					"video" : {
+						"title" : "video 🎬",
+						"desc" : ""	
+					}
+				},
+				"s" : {
+					"title" : "CW-500",
+					"desc" : "The most versatile wrapping machine on the market! Load up to a 50cm / 20in. wide film roll! Professionally wrap a large variety of boxes like perfume boxes, soap boxes, cosmetics, tobacco products and anything else you can think of.",
+					"price" : "",
+					"overview" : "",
+					"specification" : "",
+					"video" : ""
+				}
+			},
+			"button" : "order"
+		},
+		"fourth" : {
+			"title" : "difference",
+			"desc" : "Wrapping Machines are divided into two types:\r\n\r\nwith a mechanical control unit (krutilochki) digital\r\n\r\nDiffer from each other accuracy of adjustment. The mechanical temperature is regulated not by the temperature, but by the% of the power supplied to the heating plate. Because of this it is less convenient, it takes a lot of time to adjust the temperature after each switch-on (this is the loss of time and the consumption of the film). However, if you have several packages per day, you can be content with it. This is the cheapest option on the Ukrainian market (and possibly in the whole CIS). \r\n\r\nThe second - with the electric unit (pictured) - allows you to change the temperature to within 1 degree and allows you to monitor the current temperature. Also it is equipped with better heaters, which better keep the temperature. This allows you to have less power consumption than mechanical, more beneficial for long-term operation."
+		},
+		"fifth" : {
+			"title" : "shipping & payment",
+			"desc" : ""
+		},
+		"sixth" : {
+			"title" : "legend",
+			"desc" : ""
+		},
+		"seventh" : {
+			"title" : "any questions ?",
+			"desc" : "If you have any questions or suggestions, please fill in the form and we will contact you in the way that is convenient for you."
+		},
+		"eight" : {
+			"title" : "site map",
+			"desc" : ""
+		},
+		"ninth" : {
+			"title" : "language",
+			"desc" : ""
+		},
+		"tenth" : {
+			"title" : "contacts",
+			"desc" : ""
+		}
+	}
+}
