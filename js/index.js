@@ -281,11 +281,11 @@ function showOrderModal(id, model) {
     $('.order_model').text(model);
     var tape = $('#tape').prop('checked');
     if(id === 1) {
-        $(".model_image").attr("src","assets/images/cw-350-b/cw-350-b_1.png");
+        $(".model_image").attr("src","./assets/images/cw-350-b/cw-350-b_1.png");
         var price = Number($('#price').text());
         $("#price_s").text(price);
     } else if (id === 2){
-        $(".model_image").attr("src","assets/images/cw-500/cw-500_1.png");
+        $(".model_image").attr("src","./assets/images/cw-500/cw-500_1.png");
         var price = Number($('#price').text());
         $("#price_s").text(price);
         if (tape === true){ $('#optional').show(); }
